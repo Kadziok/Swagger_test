@@ -1,0 +1,4 @@
+{'id': 1, 'name': 'Fafik', 'tag': 'Pudel'}
+{'id': 0, 'name': 'string', 'tag': 'string'}
+{'id': 2, 'name': 'Bury', 'tag': 'Kundel'}
+{'id': 2, 'name': 'Bury', 'tag': 'Kundel'}
